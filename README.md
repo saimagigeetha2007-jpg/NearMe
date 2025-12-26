@@ -323,6 +323,11 @@ html
 ```
 
 ## OUTPUT
+<img width="1034" height="549" alt="Screenshot 2025-12-26 175839" src="https://github.com/user-attachments/assets/1f652e38-f0ff-4a1f-9bb7-df153966e7e2" />
+<img width="1033" height="544" alt="Screenshot 2025-12-26 175847" src="https://github.com/user-attachments/assets/d92bea57-3112-44c6-9bb1-bf3f48181ac0" />
+<img width="1037" height="558" alt="Screenshot 2025-12-26 175853" src="https://github.com/user-attachments/assets/2a291a07-6893-4769-9a02-901dd2390bf2" />
+<img width="1027" height="549" alt="Screenshot 2025-12-26 175900" src="https://github.com/user-attachments/assets/0e3d831b-443f-455f-867a-d5cb2c1ce785" />
+<img width="1039" height="550" alt="Screenshot 2025-12-26 175905" src="https://github.com/user-attachments/assets/8de20317-3a93-4e03-88d5-1d005fb0d652" />
 
 
 
